@@ -1,0 +1,7 @@
+﻿  exercise3.cpp
+D:\Политех\Предметы\5 семестр\Плюсы\homework_snake\exercise3\exercise3.cpp(40,32): warning C4244: аргумент: преобразование "__int64" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+  exercise3.vcxproj -> D:\Политех\Предметы\5 семестр\Плюсы\homework_snake\exercise3\x64\Debug\exercise3.exe
